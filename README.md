@@ -8,7 +8,9 @@ The used car market in the country is expected to reach over 70 lakh vehicles by
 "MyCars" is a new-age startup laying foundations in the setting up a car resell domain and they are setting up a team of ML experts to make predictive models determine the price of second-hand cars to optimize their revenue, you have joined as a new Data 
 Scientist and your role is to create a model to determine the selling price of a used car.
 
+
 ***Objective:***
+
 
 ● Provide the best-performing model to determine the price of the used car.
 
